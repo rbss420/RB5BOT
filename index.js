@@ -14,7 +14,7 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = '❤️RIBASBOT❤️'; 
-const instagram = 'https://instagram.com/rbs.420?igshid=1lhlpwzu1sumh'; 
+const instagram = 'https://instagram.com/rbs.420'; 
 const telegram = 'https://chat.whatsapp.com/C1JvL9GQCRG6q2qbUVUopm'; 
 const kapanbotaktif = 'BOT AKTIF TERGANTUNG OWNER'; 
 const youtube = 'https://youtube.com/channel/UCVoeo63MfuTBPXlbj-ldX3Q';
